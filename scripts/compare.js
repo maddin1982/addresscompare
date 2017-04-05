@@ -70,7 +70,7 @@ csv
 					
 					if(bestdist > dist){
 						//save best match if is lowest distance
-						bestmatch = [data_id[i][5],data_coords[j][5],data_coords[j][6]]
+						bestmatch = [data_id[i][5],data_coords[j][5],data_coords[j][6],dist]
 						bestdist=dist;
 					}
 			 }
