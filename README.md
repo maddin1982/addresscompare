@@ -17,11 +17,13 @@ ID,X-Koordinate,Y-Koordinate
 
 ### und so läufts:
 
-git installieren
-node installieren :)
+* git installieren
+* node installieren :)
 
-git clone https://github.com/maddin1982/addresscompare.git
+* git clone https://github.com/maddin1982/addresscompare.git
 
-cd addresscompare
-npm install
-node compare.js 
+* cd addresscompare
+
+* npm install
+
+* node compare.js 
