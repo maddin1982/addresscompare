@@ -1,0 +1,17 @@
+{
+  "name": "levhenstein",
+  "version": "1.0.0",
+  "description": "benutze es, denn es ist gut",
+  "main": "compare.js",
+  "dependencies": {
+    "fast-csv": "^2.4.0",
+    "fs": "0.0.2",
+    "levenshtein": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
